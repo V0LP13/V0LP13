@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vinicius FS
 
-**`Desenvolvedora FullStack`**
+**`Estudante em Desenvolvimento De Sistemas`**
 
 Meu nome é Vinicius, sou estudante de Desenvolvimento de Sistemas na Etec e sou apaixonado por tecnologia, inovação e criação de projetos. Estou sempre em busca de evoluir meu conhecimentos, aprimorar minhas ideias e tranformar criatividade em soluções reais através da programação e do desenvolvimento de sistemas.
 
